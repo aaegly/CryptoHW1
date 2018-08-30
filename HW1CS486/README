@@ -1,0 +1,23 @@
+Andrew Egly
+ID: 20370381
+Homework 1
+
+Version: Python 7.0
+
+This program encrypts and decrypts files given to it in command line.
+
+The main features are the 5 different encryption types and the ability to both
+encrypt and decrypt the file.
+
+1 Library: String
+String was used for formating some of my variables so that encryption would work
+correctly.
+
+WARNING: does not work on python below python 3. It was crashing on python 2.7
+
+Command line: python CipherHW1.py, then follow the prompts from the program
+        -no spaces in any of the inputs
+
+
+
+
